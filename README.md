@@ -1,16 +1,18 @@
 ## Content
 
-**Root Directory**
-├── 📄 _config.yml      Main Jekyll site configuration file
-├── 📄 index.md         **Website homepage**
-├── 📄 *.md                 Other Markdown pages for the website
-├── 📁 _includes          Reusable HTML code snippets
-├── 📁 _layouts            HTML layout templates
-├── 📁 assets               CSS, LESS, JS files for styling and scripts
-├── 📁 backup             Backup files for reference
-├── 📁 files                   Personal documents (e.g., CV) for download or linking
-├── 📁 images             Media files (e.g., .jpg) for use on the website
-
+```
+Root Directory 
+    |
+    ├── 📄 _config.yml      Main Jekyll site configuration file  
+    ├── 📄 index.md         Website homepage  
+    ├── 📄 *.md             Other Markdown pages for the website  
+    ├── 📁 _includes        Reusable HTML code snippets  
+    ├── 📁 _layouts         HTML layout templates  
+    ├── 📁 assets           CSS, LESS, JS files for styling and scripts  
+    ├── 📁 backup           Backup files for reference  
+    ├── 📁 files            Personal documents (e.g., CV) for download or linking  
+    ├── 📁 images           Media files (e.g., .jpg) for use on the website  
+```
 
 
 ## Local Preview

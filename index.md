@@ -27,17 +27,22 @@ Prior to this, I have also worked on some interesting projects, such as laser-as
 ## Education
 
 <img src="images/Tsinghua_logo.png" class="logo">
-**Ph.D. in Mechanical Engineering - Tsinghua University**
-<br>Sep. 2021 - Jun. 2026 (expected)
+**Ph.D. - Mechanical Engineering - Tsinghua University**
+<br>Sep. 2021 - Dec. 2026 (expected)
 <br>Beijing, China
 
+<br><img src="images/CMU_logo.png" class="logo">
+**Visiting Scholar - Robotics Institute - Carnegie Mellon University**
+<br>July. 2025 - Dec. 2025 (expected)
+<br>Pittsburgh, United States
+
 <br><img src="images/Tsinghua_logo.png" class="logo">
-**Bachelor in Mechanical Engineering - Tsinghua University**
+**Bachelor - Mechanical Engineering - Tsinghua University**
 <br>Sep. 2017 - Jun. 2021
 <br>Beijing, China
 
 <br><img src="images/McGill_logo.png" class="logo">
-**Exchange Student in Mechanical Engineering - McGill University**
+**Exchange Student - Mechanical Engineering - McGill University**
 <br>Aug. 2019 - Dec. 2019
 <br>Montreal, Canada
 
