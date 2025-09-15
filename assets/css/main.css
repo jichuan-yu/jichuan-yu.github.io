@@ -90,6 +90,7 @@ a{text-decoration:none;color:#343434;}a:visited{color:#4e4e4e;}
 a:hover{color:#1a1a1a;}
 a:focus{outline:thin dotted;color:#343434;}
 a:hover,a:active{outline:0;}
+.article-wrap a {color: #3366cc !important;} .article-wrap a:visited {color: #003366 !important;}
 b,strong{font-weight:700;}
 ul li{list-style-type:square;}
 ol li{list-style-type:upper-roman;}
