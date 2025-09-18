@@ -18,7 +18,7 @@ title: Research
 
 A hierarchical real-time motion planning framework is proposed for dual-arm collaboration in dynamic environments. The framework integrates a centralized, optimization-based global planner with two distributed local reactive planners, enabling real-time adjustments of both long-horizon trajectories and local motion behaviors to effectively avoid moving obstacles. The framework was implemented on ROS platform and validated through dual-arm simulations and experiments.
 
-*Publication: **J. Yu**, et al., ICARM 2024. **(Best Paper Award in Advanced Robotics)** (In Press)*
+*Publication: [**J. Yu**, et al., ICARM 2024](https://ieeexplore.ieee.org/abstract/document/10715905). **(Best Paper Award in Advanced Robotics)***
 
 <div class="centered-75">
 <img src="/images/research/DualArmExp_Video1.gif">

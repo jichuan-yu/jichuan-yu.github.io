@@ -30,10 +30,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Research
-    url: /research/
   - title: Publications
     url: /publications/
+  - title: Research
+    url: /research/
   - title: Awards
     url: /awards/
 
