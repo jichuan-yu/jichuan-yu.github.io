@@ -411,3 +411,26 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 @media only screen and (min-width:86.375em){.site-name{display:inline;float:left;width:12.5%;margin-left:12.5%;} .top-navigation{display:inline;float:left;width:66.66666666666667%;} .image-wrap:after{left:33.333333333%;} .image-wrap .headline-wrap{margin-left:8.333333333333334%;} #main article{display:inline;float:left;width:50%;} #index{display:inline;float:left;width:50%;} .related-articles{display:inline;float:left;width:50%;margin-left:25%;margin-right:25%;} .footer-wrap footer{display:inline;float:left;width:50%;margin-left:25%;margin-right:25%;} .article-author-top{display:inline;float:left;width:12.5%;margin-left:12.5%;}}
 /* @media only screen and (min-width:86.375em){.site-name{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;} .top-navigation{display:inline;float:left;width:66.66666666666667%;} .image-wrap:after{left:33.333333333%;} .image-wrap .headline-wrap{margin-left:8.333333333333334%;} #main article{display:inline;float:left;width:37.5%;} #index{display:inline;float:left;width:37.5%;} .related-articles{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .footer-wrap footer{display:inline;float:left;width:37.5%;margin-left:33.333333333333336%;margin-right:29.166666666666668%;} .article-author-top{display:inline;float:left;width:12.5%;margin-left:16.666666666666668%;}} */
 @media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){}
+
+
+/* Jerry modified at 202509 */
+.news-block {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+}
+
+.news-block .news-text::before { /* Add a bullet before the text */
+  content: "• ";
+  font-size: 1.2em;
+  margin-right: 0.5em;
+}
+
+.news-text {
+  flex: 1;
+  padding-right: 1em;
+}
+.news-img {
+  width: 15em;
+  margin-left: 1em;
+}

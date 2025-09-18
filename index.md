@@ -2,6 +2,7 @@
 layout: page
 ---
 
+
 ## About Me - Jichuan Yu
 <div style="height:0.5em;"></div>
 <img src="images/portrait.jpg" class="floatpic2">
@@ -46,3 +47,43 @@ I also have prior research experiences in advanced manufacturing technologies, s
 <br>Montreal, Canada
 
 
+---
+
+## News and Updates
+
+<div class="news-block">
+  <div class="news-text">
+    <strong>2025.07:</strong> Excited to begin my visiting at the <a href="https://www.ri.cmu.edu/"> Robotics Institute, CMU</a>!
+  </div>
+  <img src="/images/news/CMU2025.jpg" class="news-img">
+</div>
+
+<div class="news-block">
+  <div class="news-text">
+    <strong>2025.04:</strong> Received the <strong>Second Prize for Outstanding Oral Presentation</strong> at the 2025 Doctoral Academic Forum of Tsinghua University.
+  </div>
+  <img src="/images/news/Academic_Forum2025.jpg" class="news-img">
+</div>
+
+<div class="news-block">
+  <div class="news-text">
+    <strong>2025.01:</strong> Had a wonderful journey visiting <a href="https://www.a-star.edu.sg/i2r/"> A*STAR I²R</a>, Singapore, and was honored to share my work.
+  </div>
+  <img src="/images/news/Astar_talk2025.jpg" class="news-img">
+</div>
+
+
+<div class="news-block">
+  <div class="news-text">
+    <strong>2024.07:</strong> Thrilled to win the <strong>Best Paper Award in Advanced Robotics</strong> at <a href="http://www.ieee-arm.org/icarm2024/">ICARM 2024</a> ! Grateful for the wonderful experience in Tokyo, Japan!
+  </div>
+  <img src="/images/news/ICARM2024.jpg" class="news-img">
+</div>
+
+
+<div class="news-block">
+  <div class="news-text">
+    <strong>2023.10:</strong> Honored to Present Our Recent Work on Laser-assisted 3D Printing of Refractory Metals at CSMNT 2023!
+  </div>
+  <img src="/images/news/CSMNT2023.jpg" class="news-img">
+</div>
