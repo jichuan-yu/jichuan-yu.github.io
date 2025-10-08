@@ -53,6 +53,13 @@ I also have prior research experiences in advanced manufacturing technologies, s
 
 <div class="news-block">
   <div class="news-text">
+    <strong>2025.10:</strong> Had a great time volunteering at  <a href="https://mecc2025.a2c2.org/"> MECC 2025</a>! Very honored to meet Prof. Tomizuka.
+  </div>
+  <img src="/images/news/MECC2025.jpg" class="news-img">
+</div>
+
+<div class="news-block">
+  <div class="news-text">
     <strong>2025.07:</strong> Excited to begin my visiting at the <a href="https://www.ri.cmu.edu/"> Robotics Institute, CMU</a>!
   </div>
   <img src="/images/news/CMU2025.jpg" class="news-img">
