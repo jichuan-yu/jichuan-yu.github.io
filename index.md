@@ -33,7 +33,7 @@ I also have prior research experiences in advanced manufacturing technologies, s
 
 <br><img src="images/CMU_logo.png" class="logo">
 **Visiting Scholar - Robotics Institute - Carnegie Mellon University**
-<br>July. 2025 - Jan. 2026
+<br>Jul. 2025 - Jan. 2026
 <br>Pittsburgh, United States
 
 <br><img src="images/Tsinghua_logo.png" class="logo">
