@@ -11,7 +11,7 @@ I am a Ph.D. candidate in the [Department of Mechanical Engineering, Tsinghua Un
 
 I have a broad interest in motion planning and control theories and their applications in intelligent mechatronic systems. My Ph.D. research focuses on optimization-based coordinated motion planning for dual-arm robotic systems, with the goal of enabling efficient collaborative manipulation under multiple constraints while ensuring real-time responsiveness in dynamic environments.
 
-I spent 6 months as a visiting scholar at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), hosted by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/), where I worked on composing visuomotor policies for long-horizon assembly tasks, bridging task-level reasoning with precise, contact-rich manipulation.
+I spent 6 months in 2025 as a visiting scholar at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), hosted by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/), where I worked on composing visuomotor policies for long-horizon assembly tasks, bridging task-level reasoning with precise, contact-rich manipulation.
 
 
 #### 🚀 I am on the job market now!
