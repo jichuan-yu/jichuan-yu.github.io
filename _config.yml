@@ -32,10 +32,10 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Research
-    url: /research/
   - title: Awards
     url: /awards/
+  # - title: Research
+  #   url: /research/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

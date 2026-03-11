@@ -6,9 +6,11 @@ title: Publications
 
 
 ## Journal Paper
+- [J7] Y. Liang, Z. Wang, Y. Wang, **J. Yu**, et al. [**"Long short term robot safe control framework based on hidden action space heuristic soft actor–critic,"**](https://www.sciencedirect.com/science/article/pii/S0736584525001619). *Robotics and Computer-Integrated Manufacturing*, vol. 98, p. 103107, 2026.
 
+- [J6] Z. Jin, **J. Yu**, Y. Liang, et al., [**"CO-DOSP: A hierarchical optimization-based motion planner for multi-robot manipulation in confined and task-constrained workspace,"**](https://www.sciencedirect.com/science/article/pii/S147403462500816X) *Advanced Engineering Informatics*, vol. 69, p. 103923, 2026.
 
-- [J5] Z. Jin, **J. Yu**, Y. Liang, et al., [**"CO-DOSP: A hierarchical optimization-based motion planner for multi-robot manipulation in confined and task-constrained workspace,"**](https://www.sciencedirect.com/science/article/pii/S147403462500816X) *Advanced Engineering Informatics*, vol. 69, p. 103923, 2026.
+- [J5] Y. Wang, C. Hu, Y. Li, **J. Yu**, et al., [**"Online time-optimal trajectory planning along parametric toolpaths with strict constraint satisfaction and certifiable feasibility guarantee"**](https://www.sciencedirect.com/science/article/pii/S0890695525001105). *International Journal of Machine Tools and Manufacture*, vol. 215, p. 104355, 2025.
 
 - [J4] S. Lin, C. Hu, **J. Yu**, and Y. Liang, [**""Batch Iterative Dual Optimization for Collision-Free Robot Motion Generation,"**](https://ieeexplore.ieee.org/abstract/document/10818988) *IEEE Transactions on Industrial Informatics*, pp. 1–9, 2025.
 
