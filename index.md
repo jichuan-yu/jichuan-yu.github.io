@@ -7,16 +7,15 @@ layout: page
 <div style="height:0.5em;"></div>
 <img src="images/portrait.jpg" class="floatpic2">
 
-I am a Ph.D. candidate in the [Department of Mechanical Engineering, Tsinghua University](https://me.tsinghua.edu.cn/en/), under the supervision of Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). I got my bachelor degree in Mechanical Engineering at Tsinghua University in 2021.
+I am a Ph.D. candidate in the [Department of Mechanical Engineering, Tsinghua University](https://me.tsinghua.edu.cn/en/), under the supervision of Prof. [Chuxiong Hu](https://me.tsinghua.edu.cn/en/info/1275/2062.htm). I got my B.E. degree in Mechanical Engineering from Tsinghua University in 2021. In 2025, I spent six highly rewarding months as a visiting scholar at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), hosted by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/).
 
-I have a broad interest in motion planning and control theories and their applications in intelligent mechatronic systems. My Ph.D. research focuses on optimization-based coordinated motion planning for dual-arm robotic systems, with the goal of enabling efficient collaborative manipulation under multiple constraints while ensuring real-time responsiveness in dynamic environments.
-
-I spent 6 months in 2025 as a visiting scholar at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), hosted by Prof. [Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/), where I worked on composing visuomotor policies for long-horizon assembly tasks, bridging task-level reasoning with precise, contact-rich manipulation.
+My research lies at the intersection of control theory, optimization, and machine learning,
+with a focus on enabling robotic agents, particularly bimanual systems, to perform safe and efficient collaborative manipulation in complex real-world environments.
 
 
 #### 🚀 I am on the job market now!
 
-<p style="text-indent:1.5em;">I'm interested in research, engineering, and internship opportunities in robotic control, learning, manipulation, collaboration and interaction. Please feel free to contact me if you have relevant positions.</p>
+<p style="text-indent:1.5em;">I am seeking research, engineering, and internship opportunities in the Embodied AI industry. Please feel free to contact me if you have relevant positions.</p>
 
 
 
