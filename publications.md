@@ -6,6 +6,10 @@ title: Publications
 
 
 ## Journal Paper
+- [J9] **J. Yu<sup>\*</sup>**, B. Li<sup>\*</sup>, Z. Tang, et al., [**"BrickCraft: Visuomotor Skill Composition with Situated Manual Guidance for Long-Horizon Interlocking Brick Assembly,"**](https://arxiv.org/abs/2605.07605) *arXiv*, 2026.
+
+- [J8] **J. Yu**, J. Yan, Z. Jin, C. Hu, and Z. Wang, [**"Multi-Priority Reactive Motion Control for Safe and Coordinated Dual-Arm Manipulation in Dynamic Environments,"**](https://ieeexplore.ieee.org/abstract/document/11489492) *IEEE Robotics and Automation Letters*, 2026.
+
 - [J7] Y. Liang, Z. Wang, Y. Wang, **J. Yu**, et al. [**"Long short term robot safe control framework based on hidden action space heuristic soft actor–critic,"**](https://www.sciencedirect.com/science/article/pii/S0736584525001619). *Robotics and Computer-Integrated Manufacturing*, vol. 98, p. 103107, 2026.
 
 - [J6] Z. Jin, **J. Yu**, Y. Liang, et al., [**"CO-DOSP: A hierarchical optimization-based motion planner for multi-robot manipulation in confined and task-constrained workspace,"**](https://www.sciencedirect.com/science/article/pii/S147403462500816X) *Advanced Engineering Informatics*, vol. 69, p. 103923, 2026.
@@ -18,7 +22,7 @@ title: Publications
 
 <img src="/images/research/DIW_TMLS_Cover.jpg" class="publication">
 
-- [J2] **J. Yu<sup>†</sup>**, C. Hu<sup>†</sup>, Z. Wang, et al., [**"Printing three-dimensional refractory metal patterns in ambient air: Toward high temperature sensors,"**](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479) *Advanced Science*, vol. 10, no. 31, p. 2302479, 2023. **<font color='red'>(Inside Back Cover)</font>**
+- [J2] **J. Yu<sup>\*</sup>**, C. Hu<sup>\*</sup>, Z. Wang, et al., [**"Printing three-dimensional refractory metal patterns in ambient air: Toward high temperature sensors,"**](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479) *Advanced Science*, vol. 10, no. 31, p. 2302479, 2023. **<font color='red'>(Inside Back Cover)</font>**
 
 - [J1] C. Hu, **J. Yu**, Z. Wang and Y. Zhu, [**"An iterative contouring error compensation scheme for five-axis precision motion systems,"**](https://www.sciencedirect.com/science/article/abs/pii/S0888327022003776) *Mechanical Systems and Signal Processing*, vol. 178, p. 109226, 2022.
 
