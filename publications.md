@@ -20,8 +20,6 @@ title: Publications
 
 - [J3]  L. Liu, N. Na, **J. Yu**, et al., [**"Sniffing Like a Wine Taster: Multiple Overlapping Sniffs (MOSS) Strategy Enhances Electronic Nose Odor Recognition Capability,"**](https://onlinelibrary.wiley.com/doi/10.1002/advs.202305639) *Advanced Science*, vol. 11, no. 7, p. 2305639, 2024.
 
-<img src="/images/research/DIW_TMLS_Cover.jpg" class="publication">
-
 - [J2] **J. Yu<sup>\*</sup>**, C. Hu<sup>\*</sup>, Z. Wang, et al., [**"Printing three-dimensional refractory metal patterns in ambient air: Toward high temperature sensors,"**](https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479) *Advanced Science*, vol. 10, no. 31, p. 2302479, 2023. **<font color='red'>(Inside Back Cover)</font>**
 
 - [J1] C. Hu, **J. Yu**, Z. Wang and Y. Zhu, [**"An iterative contouring error compensation scheme for five-axis precision motion systems,"**](https://www.sciencedirect.com/science/article/abs/pii/S0888327022003776) *Mechanical Systems and Signal Processing*, vol. 178, p. 109226, 2022.
