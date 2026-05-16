@@ -84,6 +84,22 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
 
 <div class="publication-item">
   <div class="pub-image">
+    <img src="/images/research/CO-DOSP.png" alt="CO-DOSP">
+  </div>
+  <div class="pub-title">
+    <h3>CO-DOSP: A hierarchical optimization-based motion planner for multi-robot manipulation in confined and task-constrained workspace</h3>
+    <div class="pub-authors">
+      Zhao Jin, <strong>Jichuan Yu</strong>, Yixuan Liang, Yunan Wang, Ze Wang, and Chuxiong Hu
+    </div>
+    <div class="pub-venue">Advanced Engineering Informatics, 2026</div>
+    <div class="pub-links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S147403462500816X">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="pub-image">
     <img src="/images/research/ICARM.gif" alt="Hierarchical real-time motion planning">
   </div>
   <div class="pub-title">
@@ -96,6 +112,24 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
       <a href="https://ieeexplore.ieee.org/abstract/document/10715905">Paper</a>
       <span> <strong>Best Paper Award in Advanced Robotics</strong> </span>
     </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="pub-image">
+    <img src="/images/research/3DPrinting.gif" alt="Printing 3D Refractory Metals">
+  </div>
+  <div class="pub-title">
+    <h3>Printing Three-Dimensional Refractory Metal Patterns in Ambient Air: Toward High Temperature Sensors</h3>
+    <div class="pub-authors">
+      <strong>Jichuan Yu</strong><sup>*</sup>, Chuxiong Hu<sup>*</sup>, Ze Wang, Yuankong Wei, Zhijin Liu, Qingang Li, Lei Zhang, Qiulin Tan, and Xining Zang
+    </div>
+    <div class="pub-venue">Advanced Science, 2023</div>
+    <div class="pub-links">
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479) *Advanced Science">Paper</a>
+      <span> <strong>Inside Back Cover</strong> </span>
+    </div>
+    
   </div>
 </div>
 
