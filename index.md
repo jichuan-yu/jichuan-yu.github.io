@@ -126,7 +126,7 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
     </div>
     <div class="pub-venue">Advanced Science, 2023</div>
     <div class="pub-links">
-      <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479) *Advanced Science">Paper</a>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202302479">Paper</a>
       <span> <strong>Inside Back Cover</strong> </span>
     </div>
     
