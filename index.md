@@ -25,7 +25,7 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
 
 <img src="images/Tsinghua_logo.png" class="logo">
 **Ph.D. - Mechanical Engineering - Tsinghua University**
-<br>Sep. 2021 - Dec. 2026 (expected)
+<br>Sep. 2021 - Jun. 2027 (expected)
 <br>Beijing, China
 
 <br><img src="images/CMU_logo.png" class="logo">
