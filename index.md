@@ -50,6 +50,22 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
 
 <div class="publication-item">
   <div class="pub-image">
+    <img src="/images/research/BrickCraft-Duo.gif" alt="BrickCraft-Duo">
+  </div>
+  <div class="pub-title">
+    <h3>BrickCraft-Duo: Efficient Dual-Arm Skill Learning and Refinement for Compositional Long-Horizon Assembly</h3>
+    <div class="pub-authors">
+      <strong>Jichuan Yu</strong>, Zhenyu Xiao, Ze Wang, Ruixuan Liu, Changliu Liu and Chuxiong Hu<br>
+    </div>
+    <div class="pub-venue">Submitted to ICRA 2027</div>
+    <div class="pub-links">
+      <span>Paper (Coming Soon)</span>
+    </div>
+  </div>
+</div>
+
+<div class="publication-item">
+  <div class="pub-image">
     <img src="/images/research/BrickCraft.gif" alt="BrickCraft">
   </div>
   <div class="pub-title">
