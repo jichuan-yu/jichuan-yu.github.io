@@ -57,9 +57,10 @@ with a focus on enabling robotic agents, particularly bimanual systems, to perfo
     <div class="pub-authors">
       <strong>Jichuan Yu</strong>, Zhenyu Xiao, Ze Wang, Ruixuan Liu, Changliu Liu and Chuxiong Hu<br>
     </div>
-    <div class="pub-venue">Submitted to ICRA 2027</div>
+    <div class="pub-venue">arXiv, 2026</div>
     <div class="pub-links">
-      <span>Paper (Coming Soon)</span>
+      <a href="https://arxiv.org/abs/2609.28281">Paper</a>
+      <a href="https://jichuan-yu.github.io/BrickCraft-Duo/">Project Website</a>
     </div>
   </div>
 </div>
